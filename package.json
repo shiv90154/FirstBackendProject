@@ -1,0 +1,19 @@
+{
+  "name": "frist.backend",
+  "version": "1.0.0",
+  "description": "it is for just a not pad where i can write it if firat backend project",
+  "keywords": [
+    "[]"
+  ],
+  "license": "ISC",
+  "author": "shiv kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
